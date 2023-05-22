@@ -36,7 +36,7 @@ setup(
         'seaborn==0.9.0',
         'tqdm==4.31.1',
         'tensorflow==1.14.0',
-        'requests==2.21.0',
+        'requests==2.31.0',
         'pillow==6.2.2'
     ],
     tests_require=['pytest'],
